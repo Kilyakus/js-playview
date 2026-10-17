@@ -1,0 +1,20 @@
+{
+	"name": "@kilyakus/js-playview",
+	"productName": "playview",
+	"version": "1.2610.09717",
+	"description": "The player of the stack: plays video, audio and HLS streams in the container the host gives it, on Plyr with the HoldView state layer, and tells everything through events. Artwork, a PadView backdrop and an equalizer are optional; nothing is thrown — render() and play() resolve to false.",
+	"main": "js/playview.obf.js",
+	"author": "Aleksandr Kilyakov (@Kilyakus)",
+	"authorUsername": "Kilyakus",
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-playview.git"
+	},
+	"build": {},
+	"style": "css/playview.min.css",
+	"publishConfig": {
+		"access": "public"
+	}
+}
